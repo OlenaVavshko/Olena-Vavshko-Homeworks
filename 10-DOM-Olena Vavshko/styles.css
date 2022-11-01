@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+
+body{
+    width: 250px;
+    margin: 50px auto;
+}
+
+.block{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+
+.heading{
+    display: flex;
+    width: 250px;
+    height: 100px;
+    margin: 20px;
+    font-size: 30px;
+    font-weight: 400;
+    color: red;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
